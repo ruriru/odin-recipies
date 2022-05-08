@@ -1,1 +1,3 @@
-Hello, learning new commits. elo
+Hello, learning new commits. elod
+
+added 2 lines
